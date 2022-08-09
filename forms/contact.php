@@ -1,6 +1,6 @@
 <?php
 
-$receiving_email_address = 'adebudiono7@gmail.com';
+$receiving_email_address = 'antonockr1@gmail.com';
 
 if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
 include( $php_email_form );
