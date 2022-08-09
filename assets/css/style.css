@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: flex;
   align-items: center;
-  color: #a8a9b4;
+  color: #5a77be;
   padding: 12px 15px;
   margin-bottom: 8px;
   transition: 0.3s;
@@ -166,7 +166,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
   text-decoration: none;
-  color: #fff;
+  color: #ggg;
 }
 
 .nav-menu a:hover i, .nav-menu .active > a i, .nav-menu li:hover > a i {
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: #ggg;
 }
 
 /*--------------------------------------------------------------
@@ -237,11 +237,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: #ggg;
 }
 
 #hero p {
-  color: #fff;
+  color: #ggg;
   margin-bottom: 50px;
   font-size: 26px;
 }
@@ -478,7 +478,7 @@ section {
   border-radius: 50px;
   left: -9px;
   top: 0;
-  background: #fff;
+  background: #ggg;
   border: 2px solid #1f5297;
 }
 
@@ -494,7 +494,7 @@ section {
   margin: 0 auto 35px auto;
   list-style: none;
   text-align: center;
-  background: #fff;
+  background: #ggg;
   border-radius: 50px;
   padding: 2px 15px;
 }
@@ -553,7 +553,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #fff;
+  color: #ggg;
   font-size: 28px;
   text-align: center;
   background: rgba(20, 157, 221, 0.75);
@@ -587,7 +587,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: #ggg;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -633,7 +633,7 @@ section {
   font-size: 18px;
   display: inline-block;
   background: #333;
-  color: #fff;
+  color: #ggg;
   line-height: 1;
   padding: 8px 0;
   border-radius: 50%;
@@ -646,18 +646,18 @@ section {
 
 .contact .info .social-links a:hover {
   background: #149ddd;
-  color: #fff;
+  color: #ggg;
 }
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #149ddd;
-  color: #fff;
+  color: #ggg;
 }
 
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
+  background: #ggg;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -675,7 +675,7 @@ section {
 
 .contact .php-email-form .error-message {
   display: none;
-  color: #fff;
+  color: #ggg;
   background: #ed3c0d;
   text-align: center;
   padding: 15px;
@@ -684,7 +684,7 @@ section {
 
 .contact .php-email-form .sent-message {
   display: none;
-  color: #fff;
+  color: #ggg;
   background: #18d26e;
   text-align: center;
   padding: 15px;
@@ -693,7 +693,7 @@ section {
 
 .contact .php-email-form .loading {
   display: none;
-  background: #fff;
+  background: #ggg;
   text-align: center;
   padding: 15px;
 }
